@@ -125,6 +125,11 @@ img {
   width: 100%;
 }
 
+img:hover {
+  -webkit-transform: scaleX(1.1) scaleY(1.1);
+          transform: scaleX(1.1) scaleY(1.1);
+}
+
 h3 {
   padding: 10px;
   color: white;
