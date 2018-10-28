@@ -99,13 +99,12 @@ h2 {
 figure {
     height: 250px;
     width: 300px;
-    
 }
 
 img {
     height: auto;
     width: 100%;
-    
+    border-radius: 5px;  
 }
 
 img:hover {
@@ -118,8 +117,8 @@ h3 {
     margin-bottom: 40px;
     width: 93.5%;
     height: auto;
+    border-radius: 5px;  
     box-shadow: inset 0px 50px 5px 4px #666666;
-    opacity: 50%;
     text-align: justify;
 }
 
